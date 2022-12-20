@@ -1,0 +1,7 @@
+WEEK1
+--------------------------------------------------------------------------------------------------------
+Apparently, if you have sparse vector representations, it is likely that the model will perform poorly
+Also, increasing vocab size may cause overfitting
+
+WEEK2
+--------------------------------------------------------------------------------------------------------
