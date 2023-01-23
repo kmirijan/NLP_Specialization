@@ -1,0 +1,3 @@
+4_Attention_Models/*.gz
+4_Attention_Models/output_dir/*.gz
+4_Attention_Models/data/opus/medical/0.1.0/opus*
