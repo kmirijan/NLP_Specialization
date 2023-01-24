@@ -1,3 +1,7 @@
 4_Attention_Models/*.gz
 4_Attention_Models/output_dir/*.gz
 4_Attention_Models/data/opus/medical/0.1.0/opus*
+4_Attention_Models/data/cnn_dailymail/
+4_Attention_Models/data/downloads/
+4_Attention_Models/data/plain_text/3.0.0/cnn*
+4_Attention_Models/model_results5
